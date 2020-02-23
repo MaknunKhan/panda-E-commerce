@@ -21,3 +21,22 @@
     cursor: pointer;
 
 }
+.cat1, .cat2, .cat3{
+    padding: 10px 20px;
+    border-radius: 15px;
+}
+.cat1{
+    background-color: #f7b731;}
+    
+.cat2{
+    background-color: #4b7bec;
+}
+.cat3{
+    background-color: #eb3b5a;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
